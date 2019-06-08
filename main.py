@@ -9,7 +9,10 @@ from PIL import Image
 import torch
 import os
 import torch.optim as optim
-from net import srnet,vgg,attNet,srcorrectNet
+from srnet import srnet
+from attentionnet import attNet
+from rectificationnet import srcorrectNet
+from classificationnet import vgg
 import shutil
 from utils.MyImageFolder import process
 from tensorboardX import SummaryWriter
