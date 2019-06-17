@@ -15,3 +15,10 @@ PG2019 anonymous submission
 python main.py
 ```
 You will get trained models in model folder by default.
+
+## Results
+
+Accuracy comparisons of different LR image classiﬁcation methods on Caltech-256:
+
+
+![Comparison Results Table](./data/result.jpg)
