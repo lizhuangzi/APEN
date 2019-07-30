@@ -1,5 +1,5 @@
 # APEN
-PG2019 anonymous submission
+Information Science submission
 
 ## Environment
 
