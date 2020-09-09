@@ -1,5 +1,5 @@
 # APEN
-Information Science 2020 paper
+Information Science 2020 paper:
 Attention-aware perceptual enhancement nets for low-resolution image classification
 
 ## Environment
